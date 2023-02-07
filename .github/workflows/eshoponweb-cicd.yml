@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: db6943f0-db49-4478-80de-009aed61db37
-  WEBAPP-NAME: az400-webapp-rg-az400-eshoponweb-Implementing-GitHub-Actions-for-CI-CD
+  WEBAPP-NAME: az400clawfordapp
 
 
 jobs:
